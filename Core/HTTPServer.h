@@ -17,7 +17,7 @@
   #endif
 #endif
 
-sss
+
 @interface HTTPServer : NSObject IMPLEMENTED_PROTOCOLS
 {
 	// Underlying asynchronous TCP/IP socket
